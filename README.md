@@ -1,3 +1,2 @@
-# kristofhuszar.github.io
-This is my academic website.
+# My academic website
 Under construction...
