@@ -22,7 +22,7 @@ My main research interest lies at the intersecion of **[computational topology](
 
 ## Publications
 
-Papers with multiple versions are listed only once.
+Papers with multiple versions are listed once.
 
 ### Journal Articles
 
