@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Kristof Huszar">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    <!-- Load the Font Awesome icon library to show a hamburger menu (bars / times) on small screens -->
+    <link rel="stylesheet" href="/assets/css/all.css">
+    <!-- Load academicons -->
+    <link rel="stylesheet" href="/assets/css/academicons.min.css"/>
+    
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+		
+		<div class="flex-header">
+		  <div class="flex-title">
+			<h1 id="site_title"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+			<p>{{ site.description | default: site.github.project_tagline }}</p>
+		  </div>
+		  <div class="flex-logo">
+	    	{% if site.logo %}
+        	  <img id="logo" src="{{site.logo | relative_url}}" alt="Logo" />
+        	{% endif %}
+		  </div>	 
+		</div>
+
+		<!--        
+		<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+		<h1 id="site_title"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+     	<p>{{ site.description | default: site.github.project_tagline }}</p>
+
+	    {% if site.logo %}
+          <img id="logo" src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+
+        {% if site.github.is_project_page %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        {% endif %}
+
+        {% if site.github.is_user_page %}
+        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        {% endif %}
+
+        {% if site.show_downloads %}
+        <ul>
+          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+        </ul>
+        {% endif %}
+		-->
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+		<div class="buttons">
+		  <div id="dummy-button"></div>
+		  <div><span><a href="https://arxiv.org/a/huszar_k_1.html" target="_blank"><i class="ai ai-arxiv ai-2x"></i></a></span></div>
+		  <div><span><a href="https://orcid.org/0000-0002-5445-5057" target="_blank"><i class="ai ai-orcid ai-2x"></i></a></span></div>
+		  <div><span><a href="https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/kristof-huszar" target="_blank"><i class="ai ai-hal ai-2x"></i></a></span></div>
+		  <div><span><a href="https://dblp.uni-trier.de/pid/211/7942.html" target="_blank"><i class="ai ai-dblp ai-2x"></i></a></span></div>
+		  <div><span><a href="https://scholar.google.com/citations?user=8Kh9HDoAAAAJ" target="_blank"><i class="ai ai-google-scholar ai-2x"></i></a></span></div>
+		  <div id="dummy-button"></div>
+		</div>
+
+        {% if site.github.is_project_page %}
+        <p><small>Maintained by <a href="{{ site.github.owner_url }}" target="_blank">myself</a> | Powered by <a href="https://pages.github.com/" target="_blank">GitHub</a> &bull; <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> &bull; <a href="https://github.com/pages-themes/minimal" target="_blank">Minimal</a> &bull; <a href="https://jpswalsh.github.io/academicons/" target="_blank">Academicons</a> | Read the <a href="fineprint.html">Fine Print</a></small></p>
+        {% endif %}
+
+<!--Based on <a href="https://github.com/pages-themes/minimal">Minimal</a>
+
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+
+<p>
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <img style="border:0;width:88px;height:31px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="Valid CSS!" />
+    </a>
+</p>
+-->
+      </footer>
+    </div>
+
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+  </body>
+</html>
