@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+---
+layout: section
+title: About
+---
 
-You can use the [editor on GitHub](https://github.com/kristofhuszar/kristofhuszar.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<div class="flex-container">
+  <input id="toggle" type="checkbox">
+  <div class="flex-item" id="active"><a href="{{ "/" | absolute_url }}">About</a></div>
+  <div class="flex-item"><a href="research.html">Research</a></div>
+  <div class="flex-item"><a href="teaching.html">Teaching</a></div>
+  <div class="flex-item"><a href="other.html">Other</a></div>
+  <div class="flex-item"><a href="contact.html">Contact</a></div>
+  <div class="flex-item" id="hamburger">
+    <label for="toggle">
+      <i class="fas fa-bars" id="bars"></i>
+      <i class="fas fa-times" id="times"></i>
+    </label>
+    </div>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a mathematician primarily interested in [computational topology](https://en.wikipedia.org/wiki/Computational_topology){:target="_blank"}.
 
-### Markdown
+Motivated by algorithms, the main focus of my [research](research.html) concerns the quantitative relationship between various structures on [3-manifolds](https://en.wikipedia.org/wiki/3-manifold){:target="_blank"}.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+___
 
-```markdown
-Syntax highlighted code block
+Currently, I am working as a [3IA](https://3ia.univ-cotedazur.eu/){:target="_blank"} postdoctoral fellow under [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/){:target="_blank"} and [Clément Maria](https://www-sop.inria.fr/members/Clement.Maria/){:target="_blank"} in the [DataShape](https://team.inria.fr/datashape/){:target="_blank"} team at [Inria Sophia Antipolis - Méditerranée](https://www.inria.fr/en/centre-inria-sophia-antipolis-mediterranee){:target="_blank"} in Southern France.
 
-# Header 1
-## Header 2
-### Header 3
+___
 
-- Bulleted
-- List
+I completed my PhD in 2020 at [IST Austria](https://ist.ac.at/){:target="_blank"} under the supervision of [Uli Wagner](https://ist.ac.at/en/research/wagner-group/){:target="_blank"} and [Jonathan Spreer](https://www.maths.usyd.edu.au/u/jspreer/index.html){:target="_blank"}. (My dissertation is available [here](https://research-explorer.app.ist.ac.at/record/8032){:target="_blank"}.)
 
-1. Numbered
-2. List
+Before that, I obtained a BSc in Mathematics at [Eötvös Loránd University](https://www.elte.hu/en/){:target="_blank"} in Hungary, where my thesis advisor was [András Stipsicz](https://www.renyi.hu/~stipsicz){:target="_blank"}. I also studied abroad at [Beloit College](https://www.beloit.edu/){:target="_blank"} and at [Universität Heidelberg](https://www.uni-heidelberg.de/en){:target="_blank"}.
 
-**Bold** and _Italic_ and `Code` text
+___
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kristofhuszar/kristofhuszar.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div class="birding">
+  <div id="birding-text">I am passionate about birdwatching. I have been a member of <a href="https://www.mme.hu/" target="_blank">MME</a> (BirdLife Hungary) since 2007. One of my favorite birds is the <a href="https://en.wikipedia.org/wiki/Long-tailed_tit" target="_blank">long-tailed tit</a> (<i>Aegithalos caudatus</i>). They are quite common almost everywhere in Europe, and usually can be observed in small flocks of about 10-20 birds.  <div id="birding-caption-1">Illustration courtesy of <a href="https://kokay.hu/en" target="_blank">Szabolcs Kókay &#169;</a></div></div>
+  <div id="birding-img">
+    <img id="aegithalos" src="/assets/img/aegithalos.png" alt="Long-tailed tit (Aegithalos caudatus)"/>
+  </div>
+  <div id="birding-caption-2"><p>Illustration courtesy of <a href="https://kokay.hu/en" target="_blank">Szabolcs Kókay &#169;</a></p></div>
+</div>
+<!-- To learn more about me, use the top navigation bar or [download my CV](CV.pdf). -->

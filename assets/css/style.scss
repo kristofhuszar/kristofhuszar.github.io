@@ -4,8 +4,287 @@
 @import "{{ site.theme }}";
 
 a:hover, a:focus {
-  color:#069;
   font-weight: inherit;
 }
 
+#site_title {
+  padding-top: 6.5px;
+  margin-bottom: 10px;
+}
+
+#site_title a {
+  color: #285185;
+}
+
+body {
+  color: #393939;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #393939;
+}
+
+/* Always display a scrollbar */
+html {
+  overflow-y: scroll;
+}
+
+#logo {
+  vertical-align: middle;
+  width: 120px;
+  height: 120px;
+  border-radius: 25%;
+  margin-bottom: 15px;
+}
+
+.birding {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/* The "Birding" style below can probably be simplified using flex-wrap */
+
+#birding-text {
+  padding-right: 10px;
+}
+
+#birding-img {
+  flex: 0 0 200px;
+}
+
+#birding-caption-1 {
+  padding-top: 20px;
+}
+
+#birding-caption-2 {
+  display: none;
+  padding-top: 20px;
+}
+
+#aegithalos {
+  width: 100%;
+}
+
+@media print, screen and (max-width: 500px) {
+  .birding { flex-direction: column; align-items: center; }
+  #birding-text { padding-bottom: 20px; }
+  #birding-img { width: 200px; }
+  #birding-caption-1 { display: none; }
+  #birding-caption-2 { display: flex; margin-bottom: -15px;}
+}
+
+/* RESPONSIVE HEADER */
+
+.flex-header {
+  display: flex;
+  flex-direction: column;
+}
+
+/* RESPONSIVE FOOTER */
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.buttons div {
+  padding: 3px 0px 13px;
+}
+
+.buttons div span a {
+  color: #285185;
+}
+
+.buttons div span a:hover {
+  color: #91ACC0;
+}
+
+#dummy-button {
+  display: none;
+}
+
+footer p {
+  margin: 0 0 10px;
+}
+
+/* COLLAPSIBLE FIELDS */
+
+details {
+  margin-bottom: 20px;
+
+}
+
+summary {
+  margin-bottom: 10px;
+}
+
+summary:hover {
+  cursor: pointer;
+}
+
+details.script[open] summary::after {
+  content: attr(data-open);
+  color: #267CB9;
+}
+
+details.script:not([open]) summary::after {
+  content: attr(data-close);
+  color: #267CB9;
+}
+
+details.script[open]:hover summary::after {
+  content: attr(data-open);
+  color: #069;
+}
+
+details.script:not([open]):hover summary::after {
+  content: attr(data-close);
+  color: #069;
+}
+
+/*
+details[open] summary ~ * {
+  animation: animateDown 0.5s linear forwards;
+}
+
+@keyframes animateDown {
+  0% {
+    opacity: 0;
+    transform: translatey(-15px);
+  }
+  100% {
+    opacity: 1;
+    transform: translatey(0);
+  }
+}
+*/
+
+#email {
+  text-align: center;
+}
+
+
+#fingerprint {
+  text-align: center;
+}
+
+/* RESPONSIVE LAYOUT */
+
+@media print, screen and (max-width: 960px) {
+  body { word-wrap: break-word; }
+  div.wrapper { max-width: 500px; margin: 0 auto; }
+  header, section, footer { float: none; padding: 0; position: static; }
+  header { margin-bottom: 20px; padding: 0; }
+  header a small { display: inline; } 
+  header ul, header p.view { position: static; }  
+  section { border: none; }
+  footer { border: 1px solid rgba(0,0,0,0.2); border-width: 1px 0 0 0; padding-top: 20px; }
+  pre, code { word-wrap: normal; }
+  .flex-header { flex-direction: row; justify-content: space-between; }
+  .flex-logo { flex-shrink: 0; padding-left: 23px; }
+  .flex-title p { margin-bottom: 15px; }
+  #dummy-button { display: flex; }
+  #site_title { padding: 0; }
+}
+
+@media print, screen and (max-width: 600px) {
+  body { padding: 15px; }
+  header { margin-bottom: 8px; }
+  header ul { width: 99%; }
+  header li, header ul li + li + li { width: 33%; }
+  #dummy-button { display: none; } /* Dummy icons in the footer */
+}
+
+@media print, screen and (max-width: 270px) {
+  .flex-header { flex-wrap: wrap; }
+  .flex-logo { flex-shrink: 1; padding-left: 0; }
+  .flex-logo img { width: auto; height: auto; max-width: 100px; min-width:50px; }
+}
+
+/* NAVIGATION BAR */
+
+/* TODO: Rename "flex-container" and "flex-item" to be something more meaningful */
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  background-color: #fff;
+  font-size: 17px;
+  align-items: stretch;
+  border-bottom: 2px solid #285185;
+  margin-bottom: 20px;
+  position: sticky;
+  top: 0;
+}
+
+.flex-item {
+  background-color: #fff;
+  /*padding: 12px;*/
+  flex: 1 1 auto;
+}
+
+.flex-item:hover {
+  background-color: #CCD9E2;
+}
+
+.flex-item#active {
+  background-color: #285185;
+}
+
+.flex-item a {
+  color: #393939;
+  font-weight: bold;
+  display: flex; /* To make the entire parent div clickable: https://stackoverflow.com/a/50718439 We use flexbox instead of block, otherwise the clickable area does not completely fill the parent div */
+  justify-content: center;
+  padding: 12px;
+  height: inherit; /* do NOT add 'height: 100%;', because that makes the link expand outside the parent div */
+}
+
+.flex-item:hover a {
+  color: black;
+}
+
+.flex-item#active a {
+  color: white;
+}
+
+/* Hide the icon that should open and close the navigation bar on small screens */
+.flex-container #hamburger {
+  display: none;
+}
+
+/* CHECKBOX TRICKERY */
+/* https://css-tricks.com/the-checkbox-hack */
+
+.flex-container #toggle {
+  display: none;
+}
+
+/* When the screen is at most 500 pixels wide, hide all links, except for the first one ("About"). Show the link that opens and closes the navigation bar (#hamburger) */
+
+@media screen and (max-width: 500px) {
+  .flex-container { flex-direction: column; border-bottom: 0; margin-left: -23px; margin-right: -23px; margin-bottom: 20px; }
+  .flex-item { padding: 12px; } /* Undo 'make entire parent div clickable', step 1 */
+  .flex-item a { display: inline; padding: 0; } /* Undo 'make entire parent div clickable', step 2 */
+  .flex-item:not(#hamburger) { text-align: left; padding-left: 23px; }
+  .flex-item:not(#active) { display: none; }
+  .flex-item#hamburger { display: flex; background-color: #285185; font-size: 21px; padding: 9px 23px; position: absolute; right: 0; top: 0; }
+  .flex-item#hamburger i { color: white; }
+  #times { display: none; }
+  .flex-container #toggle {display: inline; opacity: 0.0; position: absolute; right: 13px; top: 6px; height: 32px; width: 32px; z-index: 10; }
+  .flex-container #toggle:hover { cursor: pointer; }
+  #toggle:checked ~ .flex-item:not(#active):not(#hamburger) { background-color: #CCD9E2; display: flex; float: none; text-align: left; }
+  #toggle:checked ~ .flex-item:not(#active):not(#hamburger) { a { color: black; } }
+  #toggle:checked ~ #active { order: -1; }
+  #toggle:checked ~ #hamburger { #bars { display: none; } }
+  #toggle:checked ~ #hamburger { #times { color: white; display: inline; font-size: 22px; padding-right: 1.5px; padding-top: 0.5px; } }
+}
+
+/* When the screen is at most 420 pixels tall, let the navigation scroll out on the top of the screen */
+
+@media print, screen and (max-height: 420px) {
+  .flex-container { position: relative; }
+}
 
