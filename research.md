@@ -41,6 +41,7 @@ Papers with multiple versions are listed once.
 Austria, Klosterneuburg, Austria, June 2020. <br> [[doi]](https://doi.org/10.15479/AT:ISTA:8032){:target="_blank"} [[IST-REx]](https://research-explorer.app.ist.ac.at/record/8032){:target="_blank"}
 - **The Alexander polynomial** (in Hungarian) <br> Bachelor's thesis. Eötvös Loránd
 University, Budapest, Hungary, May 2013. <br> [[URL]](https://web.cs.elte.hu/blobs/diplomamunkak/bsc_mat/2013/huszar_kristof.pdf){:target="_blank"}
+
 ___
 
 
