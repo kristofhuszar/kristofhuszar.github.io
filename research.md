@@ -35,11 +35,14 @@ Papers with multiple versions are listed once.
 
 - **3-Manifold triangulations with small treewidth** <br> with [Jonathan Spreer](https://www.maths.usyd.edu.au/u/jspreer/index.html){:target="_blank"} <br> _35th International Symposium on Computational Geometry_ ([SoCG 2019](https://eecs.oregonstate.edu/socg19/){:target="_blank"}), vol. 129 of LIPIcs, pages 44:1–44:20, 2019. <br> [[doi]](https://doi.org/10.4230/LIPIcs.SoCG.2019.44) [[arXiv]](https://arxiv.org/abs/1812.05528){:target="_blank"}
 
+___
+
+
 ### Theses
 
 - **Combinatorial width parameters for 3-dimensional manifolds** <br> PhD thesis, IST
 Austria, Klosterneuburg, Austria, June 2020. <br> [[doi]](https://doi.org/10.15479/AT:ISTA:8032){:target="_blank"} [[IST-REx]](https://research-explorer.app.ist.ac.at/record/8032){:target="_blank"}
-- **The Alexander polynomial** (in Hungarian) <br> Bachelor's thesis. Eötvös Loránd
+- **The Alexander polynomial** (in Hungarian) <br> BSc thesis. Eötvös Loránd
 University, Budapest, Hungary, May 2013. <br> [[URL]](https://web.cs.elte.hu/blobs/diplomamunkak/bsc_mat/2013/huszar_kristof.pdf){:target="_blank"}
 
 ___
