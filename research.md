@@ -42,17 +42,8 @@ ___
 
 - **Combinatorial width parameters for 3-dimensional manifolds** <br> PhD thesis, IST
 Austria, Klosterneuburg, Austria, June 2020. <br> [[doi]](https://doi.org/10.15479/AT:ISTA:8032){:target="_blank"} [[IST-REx]](https://research-explorer.app.ist.ac.at/record/8032){:target="_blank"}
-- **The Alexander polynomial** (in Hungarian) <br> BSc thesis. Eötvös Loránd
+- **The Alexander polynomial** (in Hungarian) <br> BSc thesis, Eötvös Loránd
 University, Budapest, Hungary, May 2013. <br> [[URL]](https://web.cs.elte.hu/blobs/diplomamunkak/bsc_mat/2013/huszar_kristof.pdf){:target="_blank"}
-
-___
-
-
-### Journal Article (structural chemistry)
-
-I contributed to this project by creating a Maple script for data analysis and by writing the part on the mathematical background in the supplement.
-
-- **Structural insights into the Trp-cage folding intermediate formation** <br> Petra Rovó, Pál Stráner, András Láng, István Bartha, Kristóf Huszár, László Nyitray and András Perczel <br> _Chemistry: A European Journal_, **19**(8):2628–2640, 2013.<br> [[doi]](https://doi.org/10.1002/chem.201203764){:target="_blank"}
 
 ___
 
@@ -74,7 +65,7 @@ ___
 
 ### Invited Talks at Seminars and Colloquia
 
-- **Seminar of the Laboratoire d'Informatique Gaspard-Monge**. Gustave Eiffel University, Marne-la-Vallée, France, April 5, 2022. [[announcement]](https://siteigm.univ-mlv.fr/seminaire/towards-an-algorithmic-understanding-of-3-dimensional-shapes/){:target="_blank"}
+- **Seminar of the Laboratoire d'Informatique Gaspard-Monge**. Gustave Eiffel University, Marne-la-Vallée, France, April 5, 2022. [[announcement]](https://siteigm.univ-mlv.fr/seminaire/980/){:target="_blank"}
 - **Topology Seminar** (online). Department of Mathematics, Oklahoma State University -- Stillwater,USA, March 22, 2022. [[announcement]](https://www.mathdept.okstate.edu/announce/pdf/1282.pdf){:target="_blank"}
 - **Algebra Colloquium**. Department of Algebra, Faculty of Mathematics and Physics, Charles University of Prague, Czech Republic, November 11, 2021. [[website]](https://www2.karlin.mff.cuni.cz/~patakova/AlgKol/){:target="_blank"} [[slides]](https://www2.karlin.mff.cuni.cz/~patakova/AlgKol/K_Huszar-Algebra_Colloquium-Prague.pdf){:target="_blank"}
 - **Noon Lecture**. Department of Applied Mathematics, Faculty of Mathematics and Physics, Charles University of Prague, Czech Republic, November 4, 2021. [[website]](https://www.mff.cuni.cz/en/kam/teaching-and-seminars/noon-lectures){:target="_blank"} [[announcement]](https://www.mff.cuni.cz/en/kam/teaching-and-seminars/noon-lectures/2021/towards-thin-triangulations-of-3-manifolds){:target="_blank"}
