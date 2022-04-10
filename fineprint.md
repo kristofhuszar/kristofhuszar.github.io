@@ -37,3 +37,6 @@ The favicon was generated with the [Favicon Generator](https://favicon.io/favico
 I do not collect, process, or store any information from visitors to this website.
 
 Please note, however, that GitHub may collect information from visitors which could, alone or together with other information, personally identify them or otherwise be reasonably linked or connected with them (e.g., logs of visitor IP addresses). See the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement){:target="_blank"} for details.
+
+While I do not track the traffic of this website, I do rely on [Google Search Console](https://search.google.com/search-console/about){:target="_blank"} to understand its indexing status and visibility in Google's search engine (see the corresponding [HTML meta tag](https://github.com/kristofhuszar/kristofhuszar.github.io/commit/a94460e887e0c92cb355c7df763c50abc20e1589){:target="_blank"}).
+
