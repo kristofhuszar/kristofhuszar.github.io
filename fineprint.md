@@ -30,7 +30,7 @@ The illustration of the two long-tailed tit (_Aegithalos caudatus_) specimens di
 
 My portrait photo is courtesy of [Petra Rovó &#169;](https://at.linkedin.com/in/petrarovo){:target="_blank"}.
 
-The favicon was generated with the [Favicon Generator](https://favicon.io/favicon-generator/){:target="_blank"} created by [John Sorrentino](https://twitter.com/johnsorrentino){:target="_blank"}.
+The favicon was created with the [Favicon Generator](https://favicon.io/favicon-generator/){:target="_blank"} of [John Sorrentino](https://twitter.com/johnsorrentino){:target="_blank"}.
 
 ### Privacy Statement
 
