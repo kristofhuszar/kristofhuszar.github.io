@@ -1,6 +1,5 @@
 ---
 layout: section
-title: About
 ---
 
 <div class="flex-container">
