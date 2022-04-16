@@ -18,24 +18,22 @@ title: Research
     </div>
 </div>
 
-My main research interest lies at the intersecion of [computational topology](https://en.wikipedia.org/wiki/Computational_topology){:target="_blank"} and [parameterized algorithms](https://www.mimuw.edu.pl/~malcin/book/){:target="_blank"}. A central theme in my work has been the quest for "thin" combinatorial representations of [3-dimensional manifolds](https://en.wikipedia.org/wiki/3-manifold){:target="_blank"}, that allow their efficient algorithmic study. To this end, I connect combinatorial, geometric and topological notions in quantitative ways. <br> I am also interested in [topological data analysis](https://en.wikipedia.org/wiki/Topological_data_analysis){:target="_blank"} and [topological methods in combinatorics](https://en.wikipedia.org/wiki/Topological_combinatorics){:target="_blank"}.
+My main research interest lies at the intersection of [computational topology](https://en.wikipedia.org/wiki/Computational_topology){:target="_blank"} and [parameterized algorithms](https://www.mimuw.edu.pl/~malcin/book/){:target="_blank"}. A central theme in my work has been the quest for "thin" combinatorial representations of [3-dimensional manifolds](https://en.wikipedia.org/wiki/3-manifold){:target="_blank"}, that allow their efficient algorithmic study. To this end, I connect combinatorial, geometric and topological notions in quantitative ways. <br> I am also interested in [topological data analysis](https://en.wikipedia.org/wiki/Topological_data_analysis){:target="_blank"} and [topological methods in combinatorics](https://en.wikipedia.org/wiki/Topological_combinatorics){:target="_blank"}.
 
-## Publications
+## Publications[^1]
 
-Papers with multiple versions are listed once.
+[^1]: Papers with multiple versions are listed once.
 
 ### Journal Articles
 
 - **On the pathwidth of hyperbolic 3-manifolds** <br> _Computing in Geometry and Topology_ (CGT), **1**(1):1–19, 2022. <br> [[doi]](https://doi.org/10.57717/cgt.v1i1.4){:target="_blank"} [[arXiv]](https://arxiv.org/abs/2105.11371){:target="_blank"}
-- **On the treewidth of triangulated 3-manifolds** <br> with [Jonathan Spreer](https://www.maths.usyd.edu.au/u/jspreer/index.html){:target="_blank"} and [Uli Wagner](https://ist.ac.at/en/research/wagner-group/){:target="_blank"} <br> _Journal of Computational Geometry_ (JoCG), **10**(2):70–98, 2019. <br> [[doi]](https://doi.org/10.20382/jogc.v10i2a5) [[arXiv]](https://arxiv.org/abs/1712.00434){:target="_blank"} [[SoCG 2018]](https://doi.org/10.4230/LIPIcs.SoCG.2018.46){:target="_blank"}[^1]
+- **On the treewidth of triangulated 3-manifolds** <br> with [Jonathan Spreer](https://www.maths.usyd.edu.au/u/jspreer/index.html){:target="_blank"} and [Uli Wagner](https://ist.ac.at/en/research/wagner-group/){:target="_blank"} <br> _Journal of Computational Geometry_ (JoCG), **10**(2):70–98, 2019. <br> [[doi]](https://doi.org/10.20382/jogc.v10i2a5) [[arXiv]](https://arxiv.org/abs/1712.00434){:target="_blank"} [[SoCG 2018]](https://doi.org/10.4230/LIPIcs.SoCG.2018.46){:target="_blank"}[^2]
 
-[^1]: The proof of Theorem 4 in the conference version [[SoCG 2018]](https://doi.org/10.4230/LIPIcs.SoCG.2018.46){:target="_blank"} contains an error that has been corrected in the journal version.
+[^2]: The proof of Theorem 4 in the conference version [[SoCG 2018]](https://doi.org/10.4230/LIPIcs.SoCG.2018.46){:target="_blank"} contains an error that has been corrected in the journal version.
 
 ### Conference Papers
 
 - **3-Manifold triangulations with small treewidth** <br> with [Jonathan Spreer](https://www.maths.usyd.edu.au/u/jspreer/index.html){:target="_blank"} <br> _35th International Symposium on Computational Geometry_ ([SoCG 2019](https://eecs.oregonstate.edu/socg19/){:target="_blank"}), vol. 129 of LIPIcs, pages 44:1–44:20, 2019. <br> [[doi]](https://doi.org/10.4230/LIPIcs.SoCG.2019.44) [[arXiv]](https://arxiv.org/abs/1812.05528){:target="_blank"}
-
-___
 
 
 ### Theses
@@ -52,6 +50,7 @@ ___
 
 ### Contributed Talks at Conferences with Peer Review
 
+- **CG Week 2022: Young Researchers Forum** (upcoming). Berlin, Germany, June 7--10, 2022. [[accepted abstracts]](https://www.inf.fu-berlin.de/inst/ag-ti/socg22/yrf.html#accepted_list){:target="_blank"}
 - **CG Week 2021: Young Researchers Forum** (online). Buffalo, NY, USA, June 7--11, 2021. [[accepted abstracts]](https://cse.buffalo.edu/socg21/yrf_accepted.html){:target="_blank"}
 - **35th International Symposium on Computational Geometry** (SoCG 2019). Portland, OR, USA, June 18--21, 2019. [[accepted papers]](https://eecs.oregonstate.edu/socg19/papers.html){:target="_blank"}
 - **34th International Symposium on Computational Geometry** (SoCG 2018). Budapest, Hungary, June 11--14, 2018. [[accepted papers]](https://www.renyi.hu/conferences/socg18/socg_accepted_papers.xml){:target="_blank"}

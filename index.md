@@ -27,7 +27,7 @@ Currently, I am working as a [3IA](https://3ia.univ-cotedazur.eu/){:target="_bla
 
 ___
 
-I completed my PhD in 2020 at [IST Austria](https://ist.ac.at/){:target="_blank"} under the supervision of [Uli Wagner](https://ist.ac.at/en/research/wagner-group/){:target="_blank"} and [Jonathan Spreer](https://www.maths.usyd.edu.au/u/jspreer/index.html){:target="_blank"}. (My dissertation is available [here](https://research-explorer.app.ist.ac.at/record/8032){:target="_blank"}.)
+I completed my PhD in 2020 at [IST Austria](https://ist.ac.at/){:target="_blank"} under the supervision of [Uli Wagner](https://ist.ac.at/en/research/wagner-group/){:target="_blank"} and [Jonathan Spreer](https://www.maths.usyd.edu.au/u/jspreer/index.html){:target="_blank"}. My dissertation is available [here](https://research-explorer.app.ist.ac.at/record/8032){:target="_blank"}.
 
 Before that, I obtained a BSc in Mathematics at [Eötvös Loránd University](https://www.elte.hu/en/){:target="_blank"} in Hungary, where my thesis advisor was [András Stipsicz](https://www.renyi.hu/~stipsicz){:target="_blank"}. I also studied abroad at [Beloit College](https://www.beloit.edu/){:target="_blank"} and at [Universität Heidelberg](https://www.uni-heidelberg.de/en){:target="_blank"}.
 
