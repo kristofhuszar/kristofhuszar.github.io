@@ -3,3 +3,6 @@ logo: /assets/img/avatar.jpg
 description: Postdoctoral researcher in mathematics
 theme: jekyll-theme-minimal
 markdown: kramdown
+url: "https://kristofhuszar.github.io/"
+plugins:
+  - jekyll-sitemap
