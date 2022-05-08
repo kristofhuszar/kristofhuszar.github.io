@@ -17,7 +17,7 @@ layout: section
     </div>
 </div>
 
-I am a mathematician primarily interested in [computational topology](https://en.wikipedia.org/wiki/Computational_topology){:target="_blank"}.
+I am a postdoctoral researcher primarily interested in [computational topology](https://en.wikipedia.org/wiki/Computational_topology){:target="_blank"}.
 
 Motivated by algorithms, the main focus of my [research](research.html) concerns the quantitative relationship between various structures on [3-manifolds](https://en.wikipedia.org/wiki/3-manifold){:target="_blank"}.
 
