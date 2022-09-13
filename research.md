@@ -50,7 +50,7 @@ ___
 
 ### Contributed Talks at Conferences with Peer Review
 
-- **CG Week 2022: Young Researchers Forum** (upcoming). Berlin, Germany, June 7--10, 2022. [[accepted abstracts]](https://www.inf.fu-berlin.de/inst/ag-ti/socg22/yrf.html#accepted_list){:target="_blank"}
+- **CG Week 2022: Young Researchers Forum**. Berlin, Germany, June 7--10, 2022. [[accepted abstracts]](https://www.inf.fu-berlin.de/inst/ag-ti/socg22/yrf.html#accepted_list){:target="_blank"}
 - **CG Week 2021: Young Researchers Forum** (online). Buffalo, NY, USA, June 7--11, 2021. [[accepted abstracts]](https://cse.buffalo.edu/socg21/yrf_accepted.html){:target="_blank"}
 - **35th International Symposium on Computational Geometry** (SoCG 2019). Portland, OR, USA, June 18--21, 2019. [[accepted papers]](https://eecs.oregonstate.edu/socg19/papers.html){:target="_blank"}
 - **34th International Symposium on Computational Geometry** (SoCG 2018). Budapest, Hungary, June 11--14, 2018. [[accepted papers]](https://www.renyi.hu/conferences/socg18/socg_accepted_papers.xml){:target="_blank"}
@@ -64,6 +64,7 @@ ___
 
 ### Invited Talks at Seminars and Colloquia
 
+- **Combinatorics, Geometry and Topology Seminar**. Institute of Science and Technology Austria, Klosterneuburg, Austria, June 22, 2022. [[website]](https://geomtop.pages.ist.ac.at/){:target="_blank"}
 - **Seminar of the Laboratoire d'Informatique Gaspard-Monge**. Gustave Eiffel University, Marne-la-Vallée, France, April 5, 2022. [[announcement]](https://siteigm.univ-mlv.fr/seminaire/980/){:target="_blank"}
 - **Topology Seminar** (online). Department of Mathematics, Oklahoma State University -- Stillwater, USA, March 22, 2022. [[announcement]](https://www.mathdept.okstate.edu/announce/pdf/1282.pdf){:target="_blank"}
 - **Algebra Colloquium**. Department of Algebra, Faculty of Mathematics and Physics, Charles University of Prague, Czech Republic, November 11, 2021. [[website]](https://www2.karlin.mff.cuni.cz/~patakova/AlgKol/){:target="_blank"} [[slides]](https://www2.karlin.mff.cuni.cz/~patakova/AlgKol/K_Huszar-Algebra_Colloquium-Prague.pdf){:target="_blank"}
