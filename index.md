@@ -19,11 +19,12 @@ layout: section
 
 I am a postdoctoral researcher in [computational topology](https://en.wikipedia.org/wiki/Computational_topology){:target="_blank"}.
 
-Motivated by [parameterized algorithms](https://www.mimuw.edu.pl/~malcin/book/){:target="_blank"}, the main focus of my [research](research.html) concerns the quantitative relationship between various structures on [3-manifolds](https://en.wikipedia.org/wiki/3-manifold){:target="_blank"}.
+Motivated by [parameterized algorithms](https://www.mimuw.edu.pl/~malcin/book/){:target="_blank"}, my [research](research.html) is focused on the quantitative relationship between various structures on [3-manifolds](https://en.wikipedia.org/wiki/3-manifold){:target="_blank"}.
 
 ___
 
 Currently, I am participating in the thematic trimester program [Geometry and Statistics in Data Sciences](https://indico.math.cnrs.fr/event/6590/){:target="_blank"} of the [Institut Henri Poincaré](https://www.ihp.fr/en){:target="_blank"} in Paris.
+
 ___
 
 Since October 2020, I have been a [3IA](https://3ia.univ-cotedazur.eu/){:target="_blank"} postdoctoral fellow under [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/){:target="_blank"} and [Clément Maria](https://www-sop.inria.fr/members/Clement.Maria/){:target="_blank"} in the [DataShape](https://team.inria.fr/datashape/){:target="_blank"} team at [Centre Inria d'Université Côte d'Azur](https://www.inria.fr/en/centre-inria-sophia-antipolis-mediterranee){:target="_blank"} in Southern France.
