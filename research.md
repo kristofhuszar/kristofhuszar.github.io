@@ -71,11 +71,11 @@ ___
 - **Noon Lecture**. Department of Applied Mathematics, Faculty of Mathematics and Physics, Charles University of Prague, Czech Republic, November 4, 2021. [[website]](https://www.mff.cuni.cz/en/kam/teaching-and-seminars/noon-lectures){:target="_blank"} [[announcement]](https://www.mff.cuni.cz/en/kam/teaching-and-seminars/noon-lectures/2021/towards-thin-triangulations-of-3-manifolds){:target="_blank"}
 - **Fico González-Acuña Low-Dimensional Topology Seminar** (online). Joint seminar of the Center for Research in Mathematics (CIMAT) and the National Autonomous University of Mexico (UNAM), October 21, 2021. [[website]](http://www.fico-ldtseminar.org){:target="_blank"} [[announcement]](http://www.fico-ldtseminar.org/talks/21-10-21-kristof-huszar/){:target="_blank"}
 - **Online Geometry Seminar** (online). Department of Mathematics, ETH Zürich, Switzerland, Mai 6, 2020. [[recording and slides]](https://math.ethz.ch/news-and-events/events/research-seminars/online-geometry-seminar.html?s=fs20#e_15369){:target="_blank"}
-- **SFB Seminar**. Faculty of Mathematics, University of Regensburg, Germany, January 31, 2020. [[website]](https://www.uni-regensburg.de/Fakultaeten/nat_Fak_I/aktuelles/SFBSeminar.html?StartDatum=2019-10-01){:target="_blank"}
+- **SFB Seminar**. Faculty of Mathematics, University of Regensburg, Germany, January 31, 2020. [[website]](https://sfb-higher-invariants.app.uni-regensburg.de/index.php?StartDatum=2020-01-27){:target="_blank"}
 
 ### Poster Presentations
 
-- **Applied Algebraic Topology Research Network Poster Session** (online). October 8, 2021. [[website]](https://sites.google.com/view/aatrn-poster-session/older-poster-sessions/posters-october-8-2021){:target="_blank"}
+- **Applied Algebraic Topology Research Network Poster Session** (online). October 8, 2021. [[website]](https://sites.google.com/view/aatrn-poster-session/prior-poster-sessions/posters-october-8-2021){:target="_blank"}
 
 ___
 
