@@ -32,10 +32,10 @@ ___
 <i class="fas fa-envelope fa-2x fa-pull-left fa-border"></i>
 <pre>
 Kristof HUSZAR
-Inria Sophia Antipolis - Méditerranée
-Équipe DataShape
-2004 route des Lucioles
-06902 Sophia Antipolis
+Centre Émile Borel
+Institut Henri Poincaré
+11 rue Pierre et Marie Curie
+75231 Paris Cedex 05
 FRANCE
 </pre>
 </div>
