@@ -64,6 +64,7 @@ ___
 
 ### Invited Talks at Seminars and Colloquia
 
+- **Séminaire Francilien de Géométrie Algorithmique et Combinatoire**. Institut Henri Poincaré, Paris, France, October 13, 2022. [[website]](https://monge.univ-mlv.fr/~hubard/GAC/){:target="_blank"}
 - **Combinatorics, Geometry and Topology Seminar**. Institute of Science and Technology Austria, Klosterneuburg, Austria, June 22, 2022. [[website]](https://geomtop.pages.ist.ac.at/){:target="_blank"}
 - **Seminar of the Laboratoire d'Informatique Gaspard-Monge**. Gustave Eiffel University, Marne-la-Vallée, France, April 5, 2022. [[announcement]](https://siteigm.univ-mlv.fr/seminaire/980/){:target="_blank"}
 - **Topology Seminar** (online). Department of Mathematics, Oklahoma State University -- Stillwater, USA, March 22, 2022. [[announcement]](https://www.mathdept.okstate.edu/announce/pdf/1282.pdf){:target="_blank"}
