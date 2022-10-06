@@ -82,6 +82,6 @@ ___
 
 ## Funding
 
-My research is currently supported by the French government through the [3IA Côte d’Azur](https://3ia.univ-cotedazur.eu/){:target="_blank"} Investments in the Future project managed by the National Research Agency (ANR) with the reference number ANR-19-P3IA-0002. I am also partially supported by the ANR project [AlgoKnot](https://project.inria.fr/algoknot/){:target="_blank"} (ANR-20-CE48-0007).
+My research has been supported by the French government through the [3IA Côte d’Azur](https://3ia.univ-cotedazur.eu/){:target="_blank"} Investments in the Future project managed by the National Research Agency (ANR) with reference number ANR-19-P3IA-0002, and partially by the ANR project [AlgoKnot](https://project.inria.fr/algoknot/){:target="_blank"} (ANR-20-CE48-0007).
 
 ![3IA Côte d’Azur](/assets/img/3IA_UCA.png "3IA Côte d’Azur")
