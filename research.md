@@ -48,8 +48,9 @@ ___
 
 ## Presentations
 
-### Contributed Talks at Conferences with Peer Review
+### Contributed Talks at Conferences and Workshops
 
+- **24e Journées Graphes et Algorithmes** (JGA 2022). École normale supérieure, Paris, France, November 16--18, 2022. [[accepted abstracts]](https://jga2022.sciencesconf.org/program){:target="_blank"}
 - **CG Week 2022: Young Researchers Forum**. Berlin, Germany, June 7--10, 2022. [[accepted abstracts]](https://www.inf.fu-berlin.de/inst/ag-ti/socg22/yrf.html#accepted_list){:target="_blank"}
 - **CG Week 2021: Young Researchers Forum** (online). Buffalo, NY, USA, June 7--11, 2021. [[accepted abstracts]](https://cse.buffalo.edu/socg21/yrf_accepted.html){:target="_blank"}
 - **35th International Symposium on Computational Geometry** (SoCG 2019). Portland, OR, USA, June 18--21, 2019. [[accepted papers]](https://eecs.oregonstate.edu/socg19/papers.html){:target="_blank"}
