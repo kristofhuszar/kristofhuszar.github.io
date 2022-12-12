@@ -23,11 +23,11 @@ Motivated by [parameterized algorithms](https://www.mimuw.edu.pl/~malcin/book/){
 
 ___
 
-Currently, I am a visiting scientist at [Institut Henri Poincaré](https://www.ihp.fr/en){:target="_blank"} in Paris, participating in the thematic trimester program [Geometry and Statistics in Data Sciences](https://indico.math.cnrs.fr/event/6590/){:target="_blank"}.
+Currently, I am a postdoctoral researcher under [Édouard Bonnet](https://perso.ens-lyon.fr/edouard.bonnet/){:target="_blank"} at the [Laboratoire de l'Informatique du Parallélisme](http://www.ens-lyon.fr/LIP/){:target="_blank"} of [ENS de Lyon](http://www.ens-lyon.fr/){:target="_blank"}.
 
 ___
 
-Between 2020 and 2022, I was a [3IA](https://3ia.univ-cotedazur.eu/){:target="_blank"} postdoctoral fellow under [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/){:target="_blank"} and [Clément Maria](https://www-sop.inria.fr/members/Clement.Maria/){:target="_blank"} in the [DataShape](https://team.inria.fr/datashape/){:target="_blank"} team at [Centre Inria d'Université Côte d'Azur](https://www.inria.fr/en/centre-inria-sophia-antipolis-mediterranee){:target="_blank"} in Southern France.
+Between 2020 and 2022, I was a [3IA](https://3ia.univ-cotedazur.eu/){:target="_blank"} postdoctoral fellow under [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/){:target="_blank"} and [Clément Maria](https://www-sop.inria.fr/members/Clement.Maria/){:target="_blank"} in the [DataShape](https://team.inria.fr/datashape/){:target="_blank"} team at [Centre Inria d'Université Côte d'Azur](https://www.inria.fr/en/centre-inria-sophia-antipolis-mediterranee){:target="_blank"} in Southern France. In the Fall of 2022, I was a visiting scientist at [Institut Henri Poincaré](https://www.ihp.fr/en){:target="_blank"} in Paris, participating in the thematic trimester [Geometry and Statistics in Data Sciences](https://indico.math.cnrs.fr/event/6590/){:target="_blank"}.
 
 ___
 
