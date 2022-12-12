@@ -21,7 +21,7 @@ title: Other
 ## Links
 
 - My [Mathematical Genealogy](https://www.mathgenealogy.org/id.php?id=263992){:target="_blank"}
-- My [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number){:target="_blank"} is (at most) **3** via the route
+- My [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number){:target="_blank"} is **3** via the route
   - Kristóf Huszár [[MR4039886]](https://mathscinet.ams.org/mathscinet-getitem?mr=4039886){:target="_blank"} Uli Wagner
   - Uli Wagner [[MR2065260]](https://mathscinet.ams.org/mathscinet-getitem?mr=2065260){:target="_blank"} László Lovász
   - László Lovász [[MR382050]](https://mathscinet.ams.org/mathscinet-getitem?mr=382050){:target="_blank"} Pál Erdős
