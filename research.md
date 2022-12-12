@@ -18,7 +18,7 @@ title: Research
     </div>
 </div>
 
-My main research interest lies at the intersection of [computational topology](https://en.wikipedia.org/wiki/Computational_topology){:target="_blank"} and [parameterized algorithms](https://www.mimuw.edu.pl/~malcin/book/){:target="_blank"}. A central theme in my work has been the quest for "thin" combinatorial representations of [3-dimensional manifolds](https://en.wikipedia.org/wiki/3-manifold){:target="_blank"}, that allow their efficient algorithmic study. To this end, I connect combinatorial, geometric and topological notions in quantitative ways. <br> I am also interested in [topological data analysis](https://en.wikipedia.org/wiki/Topological_data_analysis){:target="_blank"} and [topological methods in combinatorics](https://en.wikipedia.org/wiki/Topological_combinatorics){:target="_blank"}.
+My main research interest lies at the intersection of [computational topology](https://en.wikipedia.org/wiki/Computational_topology){:target="_blank"} and [parameterized algorithms](https://www.mimuw.edu.pl/~malcin/book/){:target="_blank"}. A central theme in my work has been the quest for "thin" combinatorial representations of [3-manifolds](https://en.wikipedia.org/wiki/3-manifold){:target="_blank"}, that allow their efficient algorithmic study. To this end, I connect combinatorial, geometric and topological notions in quantitative ways. <br> I am also interested in [topological data analysis](https://en.wikipedia.org/wiki/Topological_data_analysis){:target="_blank"} and [topological methods in combinatorics](https://en.wikipedia.org/wiki/Topological_combinatorics){:target="_blank"}.
 
 ## Publications[^1]
 
