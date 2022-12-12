@@ -17,9 +17,7 @@ layout: section
     </div>
 </div>
 
-I am a postdoctoral researcher in [computational topology](https://en.wikipedia.org/wiki/Computational_topology){:target="_blank"}.
-
-Motivated by [parameterized algorithms](https://www.mimuw.edu.pl/~malcin/book/){:target="_blank"}, my [research](research.html) is focused on the quantitative relationship between various structures on [3-manifolds](https://en.wikipedia.org/wiki/3-manifold){:target="_blank"}.
+I am a mathematician working in [computational topology](https://en.wikipedia.org/wiki/Computational_topology){:target="_blank"}. Motivated by [parameterized algorithms](https://www.mimuw.edu.pl/~malcin/book/){:target="_blank"}, my [research](research.html) is focused on the quantitative relationship between various structures on [3-manifolds](https://en.wikipedia.org/wiki/3-manifold){:target="_blank"}.
 
 ___
 
