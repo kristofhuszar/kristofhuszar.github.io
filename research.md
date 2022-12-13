@@ -84,6 +84,8 @@ ___
 
 ## Funding
 
-My research has been supported by the French government through the [3IA Côte d’Azur](https://3ia.univ-cotedazur.eu/){:target="_blank"} Investments in the Future project managed by the National Research Agency (ANR) with reference number ANR-19-P3IA-0002, and partially by the ANR project [AlgoKnot](https://project.inria.fr/algoknot/){:target="_blank"} (ANR-20-CE48-0007).
+My current position is funded by the French National Research Agency (ANR) through the project [TWIN-WIDTH](https://perso.ens-lyon.fr/edouard.bonnet/twinwidth.html){:target="_blank"} with reference number ANR-21-CE48-0014.
+
+My research has been supported by the French government through the [3IA Côte d’Azur](https://3ia.univ-cotedazur.eu/){:target="_blank"} Investments in the Future project (ANR-19-P3IA-0002), and partially by the [AlgoKnot](https://project.inria.fr/algoknot/){:target="_blank"} project (ANR-20-CE48-0007).
 
 ![3IA Côte d’Azur](/assets/img/3IA_UCA.png "3IA Côte d’Azur")
