@@ -20,7 +20,9 @@ title: Teaching
 
 ## Current Semester
 
-I am currently not teaching.
+### IUT Lyon 1 (Villeurbanne Doua)
+
+- **Communication et foncionnement bas niveau (R2.04)** 
 
 ## Previous Semesters
 
