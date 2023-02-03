@@ -52,6 +52,7 @@ ___
 
 - **24e Journées Graphes et Algorithmes** (JGA 2022). École normale supérieure, Paris, France, November 16--18, 2022. [[accepted abstracts]](https://jga2022.sciencesconf.org/program){:target="_blank"}
 - **CG Week 2022: Young Researchers Forum**. Berlin, Germany, June 7--10, 2022. [[accepted abstracts]](https://www.inf.fu-berlin.de/inst/ag-ti/socg22/yrf.html#accepted_list){:target="_blank"}
+- **39th Annual (Online) Workshop in Geometric Topology**. Texas Christian University, Fort Worth, TX, USA, June 6--8, 2022. [[schedule and abstracts]](https://faculty.tcu.edu/gfriedman/gtw2022/schedule.html){:target="_blank"}
 - **CG Week 2021: Young Researchers Forum** (online). Buffalo, NY, USA, June 7--11, 2021. [[accepted abstracts]](https://cse.buffalo.edu/socg21/yrf_accepted.html){:target="_blank"}
 - **35th International Symposium on Computational Geometry** (SoCG 2019). Portland, OR, USA, June 18--21, 2019. [[accepted papers]](https://eecs.oregonstate.edu/socg19/papers.html){:target="_blank"}
 - **34th International Symposium on Computational Geometry** (SoCG 2018). Budapest, Hungary, June 11--14, 2018. [[accepted papers]](https://www.renyi.hu/conferences/socg18/socg_accepted_papers.xml){:target="_blank"}
