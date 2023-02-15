@@ -26,7 +26,7 @@ My main research interest lies at the intersection of [computational topology](h
 
 ### Preprints
 
-- **On the width of complicated JSJ decompositions** <br> with [Jonathan Spreer](https://sites.google.com/view/jonathan-spreer/home){:target="_blank"} <br> Accepted to the 39th International Symposium on Computational Geometry ([[SoCG 2023]](https://cs.utdallas.edu/SOCG23/socg.html){:target="_blank"}), Dallas, TX, USA, June 12--15, 2023.
+- **On the width of complicated JSJ decompositions** <br> with [Jonathan Spreer](https://sites.google.com/view/jonathan-spreer/home){:target="_blank"} <br> Accepted to the _39th International Symposium on Computational Geometry_ ([SoCG 2023](https://cs.utdallas.edu/SOCG23/socg.html){:target="_blank"}), Dallas, TX, USA, June 12--15, 2023.
 
 ### Journal Articles
 
