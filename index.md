@@ -21,7 +21,7 @@ I am a mathematician working in [computational topology](https://en.wikipedia.or
 
 ___
 
-Currently, I am a [CNRS](https://www.cnrs.fr/){:target="_blank"} postdoctoral researcher under [Édouard Bonnet](https://perso.ens-lyon.fr/edouard.bonnet/){:target="_blank"} at the [Laboratoire de l'Informatique du Parallélisme](http://www.ens-lyon.fr/LIP/){:target="_blank"} of [ENS de Lyon](http://www.ens-lyon.fr/){:target="_blank"}. I am also an adjunct instructor (_chargé d'enseignement vacataire_) at the Département Informatique of [IUT Lyon 1](https://iut.univ-lyon1.fr/){:target="_blank"}.
+Currently, I am a [CNRS](https://www.cnrs.fr/){:target="_blank"} postdoctoral researcher under [Édouard Bonnet](https://perso.ens-lyon.fr/edouard.bonnet/){:target="_blank"} at the [Laboratoire de l'Informatique du Parallélisme](http://www.ens-lyon.fr/LIP/){:target="_blank"} of [ENS de Lyon](http://www.ens-lyon.fr/){:target="_blank"}. I am also an adjunct instructor at the Département Informatique of [IUT Lyon 1](https://iut.univ-lyon1.fr/){:target="_blank"}.
 
 ___
 

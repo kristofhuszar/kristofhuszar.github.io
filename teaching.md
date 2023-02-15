@@ -20,13 +20,13 @@ title: Teaching
 
 ## Current Semester
 
-### IUT Lyon 1 (Villeurbanne Doua)
+### Institut Universitaire de Technology Lyon 1
 
-- **Communication et foncionnement bas niveau (R2.04)** 
+- **R2.04 - Communication et foncionnement bas niveau** (9 weeks, in French) <br> Second-semester course in the national _BUT (Bachelor Universitaire de Technology) Informatique_ study program. The course introduces the principles of computer architectures and the basics of the ARM assembly language. <br> Role: _Chargé d'enseignement vacataire_ (Adjoint instructor)
 
 ## Previous Semesters
 
-### IST Austria
+### Institute of Science and Technology Austria
 
 #### Fall 2019
 
