@@ -20,7 +20,7 @@ title: Teaching
 
 ## Current Semester
 
-### Institut Universitaire de Technology Lyon 1
+### Institut Universitaire de Technologie Lyon 1
 
 - **Communication et foncionnement bas niveau** (9 weeks; in French) <br> Second-semester course in the national _Bachelor Universitaire de Technology -- Informatique_ study program. The course introduces computer architectures and the ARM assembly language. <br> Role: _Chargé d'enseignement vacataire (Adjoint instructor)_
 
