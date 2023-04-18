@@ -83,6 +83,7 @@ ___
 
 ### Poster Presentations
 
+- **Journées Nationales de l'Informatique-Mathématique**. Université Paris Cité, France, April 4--7, 2023. [[website]](https://jnim2023.sciencesconf.org){:target="_blank"}
 - **Applied Algebraic Topology Research Network Poster Session** (online). October 8, 2021. [[website]](https://sites.google.com/view/aatrn-poster-session/prior-poster-sessions/posters-october-8-2021){:target="_blank"}
 
 ___
