@@ -26,11 +26,11 @@ My main research interest lies at the intersection of [computational topology](h
 
 ### Preprints
 
-- **On the width of complicated JSJ decompositions** <br> with [Jonathan Spreer](https://sites.google.com/view/jonathan-spreer/home){:target="_blank"} <br> Accepted to the _39th International Symposium on Computational Geometry_ ([SoCG 2023](https://cs.utdallas.edu/SOCG23/socg.html){:target="_blank"}), Dallas, TX, USA, June 12--15, 2023. <br> [[arXiv]](https://arxiv.org/abs/2303.06789){:target="_blank"}
+- **On the width of complicated JSJ decompositions** <br> with [Jonathan Spreer](https://sites.google.com/view/jonathan-spreer/home){:target="_blank"} <br> Accepted to the _39th International Symposium on Computational Geometry_ ([SoCG 2023](https://cs.utdallas.edu/SOCG23/socg.html){:target="_blank"}), Dallas, TX, USA, June 12--15, 2023. <br> [[arXiv]](https://arxiv.org/abs/2303.06789){:target="_blank"} [[HAL]](https://hal.science/hal-04055617){:target="_blank"}
 
 ### Journal Articles
 
-- **On the pathwidth of hyperbolic 3-manifolds** <br> _Computing in Geometry and Topology_ (CGT), **1**(1):1–19, 2022. <br> [[doi]](https://doi.org/10.57717/cgt.v1i1.4){:target="_blank"} [[arXiv]](https://arxiv.org/abs/2105.11371){:target="_blank"}
+- **On the pathwidth of hyperbolic 3-manifolds** <br> _Computing in Geometry and Topology_ (CGT), **1**(1):1–19, 2022. <br> [[doi]](https://doi.org/10.57717/cgt.v1i1.4){:target="_blank"} [[arXiv]](https://arxiv.org/abs/2105.11371){:target="_blank"} [[HAL]](https://hal.science/hal-03373577){:target="_blank"}
 - **On the treewidth of triangulated 3-manifolds** <br> with [Jonathan Spreer](https://sites.google.com/view/jonathan-spreer/home){:target="_blank"} and [Uli Wagner](https://ist.ac.at/en/research/wagner-group/){:target="_blank"} <br> _Journal of Computational Geometry_ (JoCG), **10**(2):70–98, 2019. <br> [[doi]](https://doi.org/10.20382/jogc.v10i2a5) [[arXiv]](https://arxiv.org/abs/1712.00434){:target="_blank"} [[SoCG 2018]](https://doi.org/10.4230/LIPIcs.SoCG.2018.46){:target="_blank"}[^2]
 
 [^2]: The proof of Theorem 4 in the conference version [[SoCG 2018]](https://doi.org/10.4230/LIPIcs.SoCG.2018.46){:target="_blank"} contains an error that has been corrected in the journal version.
