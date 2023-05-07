@@ -37,7 +37,7 @@ My main research interest lies at the intersection of [computational topology](h
 
 ### Conference Papers
 
-- **3-Manifold triangulations with small treewidth** <br> with [Jonathan Spreer](https://sites.google.com/view/jonathan-spreer/home){:target="_blank"} <br> _35th International Symposium on Computational Geometry_ ([SoCG 2019](https://eecs.oregonstate.edu/socg19/){:target="_blank"}), vol. 129 of LIPIcs, pages 44:1–44:20, 2019. <br> [[doi]](https://doi.org/10.4230/LIPIcs.SoCG.2019.44) [[arXiv]](https://arxiv.org/abs/1812.05528){:target="_blank"}
+- **3-Manifold triangulations with small treewidth** <br> with [Jonathan Spreer](https://sites.google.com/view/jonathan-spreer/home){:target="_blank"} <br> _35th International Symposium on Computational Geometry_ ([SoCG 2019](https://web.archive.org/web/20190717212327/https://eecs.oregonstate.edu/socg19/papers.html){:target="_blank"}), vol. 129 of LIPIcs, pages 44:1–44:20, 2019. <br> [[doi]](https://doi.org/10.4230/LIPIcs.SoCG.2019.44) [[arXiv]](https://arxiv.org/abs/1812.05528){:target="_blank"}
 
 
 ### Theses
@@ -71,6 +71,7 @@ ___
 
 ### Invited Talks at Seminars and Colloquia
 
+- **Lyon Graph Meetings**. Co-hosted by [LIP](http://www.ens-lyon.fr/LIP/){:target="_blank"} and [LIRIS](https://liris.cnrs.fr/en){:target="_blank"}, Lyon, France, May 5, 2023. [[website]](https://perso.liris.cnrs.fr/lfeuilloley/graph-meeting.html){:target="_blank"}
 - **Séminaire Francilien de Géométrie Algorithmique et Combinatoire**. Institut Henri Poincaré, Paris, France, October 13, 2022. [[website]](https://monge.univ-mlv.fr/~hubard/GAC/){:target="_blank"}
 - **Combinatorics, Geometry and Topology Seminar**. Institute of Science and Technology Austria, Klosterneuburg, Austria, June 22, 2022. [[website]](https://geomtop.pages.ist.ac.at/){:target="_blank"}
 - **Seminar of the Laboratoire d'Informatique Gaspard-Monge**. Gustave Eiffel University, Marne-la-Vallée, France, April 5, 2022. [[announcement]](https://siteigm.univ-mlv.fr/seminaire/980/){:target="_blank"}
@@ -84,7 +85,7 @@ ___
 ### Poster Presentations
 
 - **Journées Nationales de l'Informatique-Mathématique**. Université Paris Cité, France, April 4--7, 2023. [[website]](https://jnim2023.sciencesconf.org){:target="_blank"}
-- **Applied Algebraic Topology Research Network Poster Session** (online). October 8, 2021. [[website]](https://sites.google.com/view/aatrn-poster-session/prior-poster-sessions/posters-october-8-2021){:target="_blank"}
+- **Applied Algebraic Topology Research Network Poster Session** (online). October 8, 2021. [[website]](https://sites.google.com/view/aatrn-poster-session/prior-poster-sessions/october-2021-posters){:target="_blank"}
 
 ___
 
