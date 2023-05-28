@@ -20,13 +20,13 @@ title: Teaching
 
 ## Current Semester
 
-### Institut Universitaire de Technologie Lyon 1
+### [IUT Lyon 1](https://iut.univ-lyon1.fr/){:target="_blank"}
 
 - **R2.04 -- Fonctionnement bas niveau** (9 weeks; in French) <br> Second-semester course in the national _Bachelor Universitaire de Technology -- Informatique_ study program. The course introduces computer architectures through a simplified ARM assembly language. <br> Role: _Chargé d'enseignement vacataire (Adjoint instructor)_
 
 ## Previous Semesters
 
-### Institute of Science and Technology Austria
+### [IST Austria](https://phd.pages.ista.ac.at/){:target="_blank"}
 
 #### Fall 2019
 
