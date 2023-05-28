@@ -51,7 +51,7 @@ title: Teaching
 ___
 
 
-### Eötvös Loránd University
+### [Eötvös Loránd University](https://www.elte.hu/en/){:target="_blank"}
 
 #### Fall 2012
 
