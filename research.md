@@ -24,10 +24,6 @@ My main research interest lies at the intersection of [computational topology](h
 
 [^1]: Papers with multiple versions are listed once.
 
-### Preprints
-
-- **On the width of complicated JSJ decompositions** <br> with [Jonathan Spreer](https://sites.google.com/view/jonathan-spreer/home){:target="_blank"} <br> Accepted to the _39th International Symposium on Computational Geometry_ ([SoCG 2023](https://cs.utdallas.edu/SOCG23/socg.html){:target="_blank"}), Dallas, TX, USA, June 12--15, 2023. <br> [[arXiv]](https://arxiv.org/abs/2303.06789){:target="_blank"} [[HAL]](https://hal.science/hal-04055617){:target="_blank"}
-
 ### Journal Articles
 
 - **On the pathwidth of hyperbolic 3-manifolds** <br> _Computing in Geometry and Topology_ (CGT), **1**(1):1–19, 2022. <br> [[doi]](https://doi.org/10.57717/cgt.v1i1.4){:target="_blank"} [[arXiv]](https://arxiv.org/abs/2105.11371){:target="_blank"} [[HAL]](https://hal.science/hal-03373577){:target="_blank"}
@@ -37,6 +33,7 @@ My main research interest lies at the intersection of [computational topology](h
 
 ### Conference Papers
 
+- **On the width of complicated JSJ decompositions** <br> with [Jonathan Spreer](https://sites.google.com/view/jonathan-spreer/home){:target="_blank"} <br> _39th International Symposium on Computational Geometry_ ([SoCG 2023](https://cs.utdallas.edu/SOCG23/socg.html){:target="_blank"}), vol. 258 of LIPIcs, pages 42:1–42:18, 2023. <br> [[arXiv]](https://arxiv.org/abs/2303.06789){:target="_blank"} [[doi]](https://doi.org/10.4230/LIPIcs.SoCG.2023.42){:target="_blank"} [[HAL]](https://hal.science/hal-04055617){:target="_blank"}
 - **3-Manifold triangulations with small treewidth** <br> with [Jonathan Spreer](https://sites.google.com/view/jonathan-spreer/home){:target="_blank"} <br> _35th International Symposium on Computational Geometry_ ([SoCG 2019](https://web.archive.org/web/20190717212327/https://eecs.oregonstate.edu/socg19/papers.html){:target="_blank"}), vol. 129 of LIPIcs, pages 44:1–44:20, 2019. <br> [[doi]](https://doi.org/10.4230/LIPIcs.SoCG.2019.44) [[arXiv]](https://arxiv.org/abs/1812.05528){:target="_blank"}
 
 
