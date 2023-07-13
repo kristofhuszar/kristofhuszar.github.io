@@ -20,7 +20,7 @@ title: Other
 
 ## Links
 
-- My [zbMATH Open author profile](https://zbmath.org/authors/?q=ai:huszar.kristof){:target="_blank"}
+- My [zbMATH Open author profile](https://zbmath.org/authors/huszar.kristof){:target="_blank"}
 - My [Mathematical Genealogy](https://www.mathgenealogy.org/id.php?id=263992){:target="_blank"}
 - My [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number){:target="_blank"} is **3** via the route
   - Kristóf Huszár [[MR4039886]](https://mathscinet.ams.org/mathscinet-getitem?mr=4039886){:target="_blank"} Uli Wagner
