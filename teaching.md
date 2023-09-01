@@ -34,7 +34,7 @@ title: Teaching
 
 #### Fall 2018
 
-- **Mathematics Refresher** (2 weeks; intense) <br> Pre-semester course for first-year PhD students in Life Sciences <br> Roles: _Teaching assistant_, _curriculum design_ <br> Lecturer : Jiří Friml
+- **Mathematics Refresher** (2 weeks; intense) <br> Pre-semester course for first-year PhD students in Life Sciences <br> Roles: _Teaching assistant_, _curriculum design_ <br> Lecturer: Jiří Friml
 
 #### Spring 2018
 
@@ -42,11 +42,11 @@ title: Teaching
 
 #### Fall 2017 and Fall 2016
 
-- **Mathematics Refresher** (3 weeks [2016], 2 weeks [2017]; intense) <br> Pre-semester course for first-year PhD students in Life Sciences <br> Roles: _Teaching assistant_, _curriculum design_ <br> Lecturer : Jiří Friml
+- **Mathematics Refresher** (3 weeks [2016], 2 weeks [2017]; intense) <br> Pre-semester course for first-year PhD students in Life Sciences <br> Roles: _Teaching assistant_, _curriculum design_ <br> Lecturer: Jiří Friml
 
 #### Fall 2014
 
-- **Linear Algebra** (6 weeks) <br> Introductory course with a perspective on applications in computer science and data analysis <br> Roles: _Teaching assistant_ <br> Lecturer : Paweł Pilarczyk
+- **Linear Algebra** (6 weeks) <br> Introductory course with a perspective on applications in computer science and data analysis <br> Roles: _Teaching assistant_ <br> Lecturer: Paweł Pilarczyk
 
 ___
 
