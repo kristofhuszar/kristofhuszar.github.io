@@ -18,13 +18,21 @@ title: Teaching
     </div>
 </div>
 
+## Current Semester
+
+### [ENS de Lyon](https://www.ens-lyon.fr/en/){:target="_blank"}
+
+#### Fall 2023
+
+- **Fundamentals in Computer Science** (8 hours) <br> Second-year course in the master's program _Systèmes Complexes_. The course introduces fundamental notions of CS (e.g., sorting and graph algorithms and their implementations, decision problems, algorithmic complexity) to students with background in physics and biology. <br> Role: _Teaching assistant_ <br> Lecturer: Stephan Thomassé
+
 ## Previous Semesters
 
 ### [IUT Lyon 1](https://iut.univ-lyon1.fr/){:target="_blank"}
 
 #### Spring 2023
 
-- **R2.04 -- Fonctionnement bas niveau** (9 weeks; in French) <br> Second-semester course in the national _Bachelor Universitaire de Technology -- Informatique_ study program. The course introduces computer architectures through a simplified ARM assembly language. <br> Role: _Chargé d'enseignement vacataire (Adjoint instructor)_
+- **Fonctionnement bas niveau [Low-level operation]** (9 weeks; in French) <br> Second-semester course in the national _Bachelor Universitaire de Technology -- Informatique_ study program. The course introduces computer architectures through a simplified ARM assembly language. <br> Role: _Chargé d'enseignement vacataire (Adjoint instructor)_
 
 ___
 
@@ -33,11 +41,11 @@ ___
 
 #### Fall 2019
 
-- **Topological Methods in Discrete Mathematics and Computer Science** (6 weeks) <br> Advanced course for PhD students in Mathematics and CS <br> Role: _Teaching assistant_ <br> Lecturers: Marek Filakovský and Uli Wagner
+- **Topological Methods in Discrete Mathematics and Computer Science** (6 weeks) <br> Advanced course for PhD students in mathematics and CS <br> Role: _Teaching assistant_ <br> Lecturers: Marek Filakovský and Uli Wagner
 
 #### Fall 2018
 
-- **Mathematics Refresher** (2 weeks; intense) <br> Pre-semester course for first-year PhD students in Life Sciences <br> Roles: _Teaching assistant_, _curriculum design_ <br> Lecturer: Jiří Friml
+- **Mathematics Refresher** (2 weeks; intense) <br> Pre-semester course for first-year PhD students in life sciences <br> Roles: _Teaching assistant_, _curriculum design_ <br> Lecturer: Jiří Friml
 
 #### Spring 2018
 
@@ -45,7 +53,7 @@ ___
 
 #### Fall 2017 and Fall 2016
 
-- **Mathematics Refresher** (3 weeks [2016], 2 weeks [2017]; intense) <br> Pre-semester course for first-year PhD students in Life Sciences <br> Roles: _Teaching assistant_, _curriculum design_ <br> Lecturer: Jiří Friml
+- **Mathematics Refresher** (3 weeks [2016], 2 weeks [2017]; intense) <br> Pre-semester course for first-year PhD students in life sciences <br> Roles: _Teaching assistant_, _curriculum design_ <br> Lecturer: Jiří Friml
 
 #### Fall 2014
 
