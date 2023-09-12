@@ -24,7 +24,7 @@ title: Teaching
 
 #### Fall 2023
 
-- **Fundamentals in Computer Science** (8 hours) <br> Second-year course in the master's program _Systèmes Complexes_. The course introduces basic sorting and graph algorithms and their implementations, decision problems and algorithmic complexity to students with background in physics and biology. <br> Role: _Teaching assistant_ <br> Lecturer: Stephan Thomassé
+- **Fundamentals in Computer Science** (8 hours; in French) <br> Second-year course in the master's program _Systèmes Complexes_. The course introduces basic sorting and graph algorithms and their implementations, decision problems and algorithmic complexity to students with background in physics and biology. <br> Role: _Teaching assistant_ <br> Lecturer: Stephan Thomassé
 
 ## Previous Semesters
 
