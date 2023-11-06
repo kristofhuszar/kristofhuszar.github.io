@@ -21,13 +21,15 @@ I am a mathematician working in [computational topology](https://en.wikipedia.or
 
 ___
 
-Currently, I am a [CNRS](https://www.cnrs.fr/){:target="_blank"} postdoctoral researcher under [Édouard Bonnet](https://perso.ens-lyon.fr/edouard.bonnet/){:target="_blank"} at the [Laboratoire de l'Informatique du Parallélisme](http://www.ens-lyon.fr/LIP/){:target="_blank"} of [ENS de Lyon](http://www.ens-lyon.fr/){:target="_blank"}. During the Spring of 2023, I was also an adjunct instructor at [IUT Lyon 1](https://iut.univ-lyon1.fr/){:target="_blank"}.
+Currently, I am a postdoc ([Universitätsassistent](https://de.wikipedia.org/wiki/Universit%C3%A4tsassistent){:target="_blank"}) at the [Institute of Geometry](http://www.geometrie.tugraz.at/){:target="_blank"} of [TU Graz](https://www.tugraz.at/en/home){:target="_blank"}.
 
 ___
 
 Between 2020 and 2022, I was a [3IA](https://3ia.univ-cotedazur.eu/){:target="_blank"} postdoctoral fellow under [Jean-Daniel Boissonnat](https://www-sop.inria.fr/members/Jean-Daniel.Boissonnat/){:target="_blank"} and [Clément Maria](https://www-sop.inria.fr/members/Clement.Maria/){:target="_blank"} in the [DataShape](https://team.inria.fr/datashape/){:target="_blank"} team at [Centre Inria d'Université Côte d'Azur](https://www.inria.fr/en/centre-inria-sophia-antipolis-mediterranee){:target="_blank"} in Southern France.
 
 I spent the Fall of 2022 at [Institut Henri Poincaré](https://www.ihp.fr/en){:target="_blank"} in Paris, participating in the thematic trimester [Geometry and Statistics in Data Sciences](https://indico.math.cnrs.fr/event/6590/){:target="_blank"}.
+
+Afterwards, I spent 11 months as a [CNRS](https://www.cnrs.fr/){:target="_blank"} postdoctoral researcher under [Édouard Bonnet](https://perso.ens-lyon.fr/edouard.bonnet/){:target="_blank"} at the [Laboratoire de l'Informatique du Parallélisme](http://www.ens-lyon.fr/LIP/){:target="_blank"} of [ENS de Lyon](http://www.ens-lyon.fr/){:target="_blank"}. During the Spring of 2023, I was also an adjunct instructor at [IUT Lyon 1](https://iut.univ-lyon1.fr/){:target="_blank"}.
 
 ___
 
