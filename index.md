@@ -29,7 +29,7 @@ Between 2020 and 2022, I was a [3IA](https://3ia.univ-cotedazur.eu/){:target="_b
 
 I spent the Fall of 2022 at [Institut Henri Poincaré](https://www.ihp.fr/en){:target="_blank"} in Paris, participating in the thematic trimester [Geometry and Statistics in Data Sciences](https://indico.math.cnrs.fr/event/6590/){:target="_blank"}.
 
-Afterwards, I spent 11 months as a [CNRS](https://www.cnrs.fr/){:target="_blank"} postdoctoral researcher under [Édouard Bonnet](https://perso.ens-lyon.fr/edouard.bonnet/){:target="_blank"} at the [Laboratoire de l'Informatique du Parallélisme](http://www.ens-lyon.fr/LIP/){:target="_blank"} of [ENS de Lyon](http://www.ens-lyon.fr/){:target="_blank"}. During the Spring of 2023, I was also an adjunct instructor at [IUT Lyon 1](https://iut.univ-lyon1.fr/){:target="_blank"}.
+Afterwards, I spent 11 months as a [CNRS](https://www.cnrs.fr/){:target="_blank"} postdoctoral researcher under [Édouard Bonnet](https://perso.ens-lyon.fr/edouard.bonnet/){:target="_blank"} at the [Laboratoire de l'Informatique du Parallélisme](http://www.ens-lyon.fr/LIP/){:target="_blank"} of [ENS de Lyon](http://www.ens-lyon.fr/){:target="_blank"}. In the Spring of 2023, I was also an adjunct instructor at [IUT Lyon 1](https://iut.univ-lyon1.fr/){:target="_blank"}.
 
 ___
 
