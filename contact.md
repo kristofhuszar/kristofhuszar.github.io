@@ -21,7 +21,7 @@ title: Contact
 <div id="email">
 <i class="fas fa-at fa-2x fa-pull-left fa-border"></i>
 <pre>
-<a href='&#109;a&#105;lt&#111;&#58;k&#114;&#105;s&#116;&#111;&#102;.husz&#97;&#114;@&#101;&#110;s-&#108;yo&#110;&#46;&#102;r'>kr&#105;&#115;&#116;o&#102;.&#104;&#117;s&#122;&#97;r&#64;en&#115;-&#108;y&#111;&#110;.&#102;r</a>
+<a href='&#109;a&#105;lt&#111;&#58;k&#114;&#105;s&#116;&#111;&#102;.husz&#97;&#114;@tug&#114;&#97;z&#46;&#97;&#116;'>kr&#105;&#115;&#116;o&#102;.&#104;&#117;s&#122;&#97;r&#64;t&#117;g&#114;&#97;z.a&#116;</a>
 </pre>
 </div>
 
@@ -32,11 +32,11 @@ ___
 <i class="fas fa-envelope fa-2x fa-pull-left fa-border"></i>
 <pre>
 Kristof HUSZAR
-Laboratoire de l'Informatique du Parallélisme
-ENS de Lyon
-46 allée d'Italie
-69007 Lyon
-FRANCE
+Institut für Geometrie
+TU Graz
+Kopernikusgasse 24
+8010 Graz
+AUSTRIA
 </pre>
 </div>
 
