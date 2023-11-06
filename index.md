@@ -21,7 +21,7 @@ I am a mathematician working in [computational topology](https://en.wikipedia.or
 
 ___
 
-Currently, I am a postdoc ([Universitätsassistent](https://de.wikipedia.org/wiki/Universit%C3%A4tsassistent){:target="_blank"}) at the [Institute of Geometry](http://www.geometrie.tugraz.at/){:target="_blank"} of [TU Graz](https://www.tugraz.at/en/home){:target="_blank"}.
+Currently, I am a non-tenure track assistant professor ([Universitätsassistent](https://de.wikipedia.org/wiki/Universit%C3%A4tsassistent){:target="_blank"}) at the [Institute of Geometry](http://www.geometrie.tugraz.at/){:target="_blank"} of [TU Graz](https://www.tugraz.at/en/home){:target="_blank"}.
 
 ___
 
