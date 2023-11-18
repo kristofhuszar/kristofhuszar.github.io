@@ -24,7 +24,7 @@ title: Teaching
 
 #### Fall 2023
 
-- **Elementare Differentialgeometrie** (9 weeks; in German) <br> Elementary differential geometry of curves and surfaces; exercise sessions <br> Role: _Teaching assistant_ <br> Lecturer: Olga Diamanti
+- **Elementare Differentialgeometrie** (9 weeks; in German) <br> Elementary differential geometry of curves and surfaces; exercises. <br> Role: _Teaching assistant_ <br> Lecturer: Olga Diamanti
 
 ### [ENS de Lyon](https://www.ens-lyon.fr/en/){:target="_blank"}
 
