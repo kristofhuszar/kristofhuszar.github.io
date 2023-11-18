@@ -20,6 +20,12 @@ title: Teaching
 
 ## Current Semester
 
+### [TU Graz](https://www.tugraz.at/en/home){:target="_blank"}
+
+#### Fall 2023
+
+- **Elementare Differentialgeometrie** (9 weeks; in German) <br> Elementary differential geometry of curves and surfaces; exercise sessions <br> Role: _Teaching assistant_ <br> Lecturer: Olga Diamanti
+
 ### [ENS de Lyon](https://www.ens-lyon.fr/en/){:target="_blank"}
 
 #### Fall 2023
