@@ -18,11 +18,9 @@ title: Teaching
     </div>
 </div>
 
-## Current Semester
-
 ### [TU Graz](https://www.tugraz.at/en/home){:target="_blank"}
 
-#### Summer 2023
+#### Summer 2024
 
 - **Geometrien und Transformationsgruppen** (13 weeks; in German) <br> Discussion of various geometries and transformation groups (e.g. hyperbolic geometry and Möbius geometry), exemplary presentation of some geometric point models (e.g. Laguerre geometry) and associated geometric mappings; exercises. <br> Role: _Teaching assistant_ <br> Lecturer: Johannes Wallner
 
@@ -30,13 +28,17 @@ title: Teaching
 
 - **Elementare Differentialgeometrie** (9 weeks; in German) <br> Elementary differential geometry of curves and surfaces; exercises. <br> Role: _Teaching assistant_ <br> Lecturer: Olga Diamanti
 
+___
+
+
 ### [ENS de Lyon](https://www.ens-lyon.fr/en/){:target="_blank"}
 
 #### Fall 2023
 
 - **Fundamentals in Computer Science** (8 hours; in English and French) <br> Second-year course in the master's program [M2 _Systèmes Complexes_](https://www.ens-lyon.fr/MasterSDM/fr/master-2/m2-systemes-complexes){:target="_blank"}. The course introduces basic sorting and graph algorithms and their implementations, decision problems and algorithmic complexity to students with background in physics and biology. <br> Role: _Teaching assistant_ <br> Lecturer: Stephan Thomassé
 
-## Previous Semesters
+___
+
 
 ### [IUT Lyon 1](https://iut.univ-lyon1.fr/){:target="_blank"}
 
