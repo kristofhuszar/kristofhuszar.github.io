@@ -70,6 +70,7 @@ ___
 
 ### Invited Talks at Seminars and Colloquia
 
+- **Advanced Topics in Discrete Mathematics**. Graz School of Discrete Mathematics (TU & KFU Graz), Austria, May 3, 2024. [[website]](https://www.math.tugraz.at/graz-school-of-discrete-mathematics/index.php?link=seminar){:target="_blank"}
 - **Algebra Colloquium**. Department of Algebra, Faculty of Mathematics and Physics, Charles University of Prague, Czech Republic, December 19, 2023. [[website]](https://www.mff.cuni.cz/en/math/ka/events/seminars/algebra-colloquium){:target="_blank"}
 - **Lyon Graph Meetings**. Co-hosted by [LIP](http://www.ens-lyon.fr/LIP/){:target="_blank"} and [LIRIS](https://liris.cnrs.fr/en){:target="_blank"}, Lyon, France, May 5, 2023. [[website]](https://perso.liris.cnrs.fr/lfeuilloley/graph-meeting.html){:target="_blank"}
 - **Séminaire Francilien de Géométrie Algorithmique et Combinatoire**. Institut Henri Poincaré, Paris, France, October 13, 2022. [[website]](https://monge.univ-mlv.fr/~hubard/GAC/){:target="_blank"}
