@@ -24,6 +24,10 @@ My main research interest lies at the intersection of [computational topology](h
 
 [^1]: Papers with multiple versions are listed once.
 
+### Preprints
+
+- **On the twin-width of smooth manifolds** <br> with [Édouard Bonnet](https://perso.ens-lyon.fr/edouard.bonnet/){:target="_blank"} <br> [[arXiv]](https://arxiv.org/abs/2407.10174){:target="_blank"}
+
 ### Journal Articles
 
 - **On the pathwidth of hyperbolic 3-manifolds** <br> _Computing in Geometry and Topology_ (CGT), **1**(1):1–19, 2022. <br> [[doi]](https://doi.org/10.57717/cgt.v1i1.4){:target="_blank"} [[arXiv]](https://arxiv.org/abs/2105.11371){:target="_blank"} [[HAL]](https://hal.science/hal-03373577){:target="_blank"}
