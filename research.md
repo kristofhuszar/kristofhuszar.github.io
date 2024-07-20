@@ -26,7 +26,7 @@ My main research interest lies at the intersection of [computational topology](h
 
 ### Preprints
 
-- **On the twin-width of smooth manifolds** <br> with [Édouard Bonnet](https://perso.ens-lyon.fr/edouard.bonnet/){:target="_blank"} <br> [[arXiv]](https://arxiv.org/abs/2407.10174){:target="_blank"}
+- **On the twin-width of smooth manifolds** <br> with [Édouard Bonnet](https://perso.ens-lyon.fr/edouard.bonnet/){:target="_blank"} <br> July 2024 <br> [[arXiv]](https://arxiv.org/abs/2407.10174){:target="_blank"}
 
 ### Journal Articles
 
