@@ -65,6 +65,7 @@ ___
 
 ### Invited Talks at Conferences and Workshops
 
+- **Special Session on Discrete and Combinatorial Algebraic Topology, Theory and Applications**. 2nd AMS-UMI International Joint Meeting, Palermo, Italy, July 23--26. [[abstract booklet]](https://umi.dm.unibo.it/jm-umi-ams/index.php?gf-download=2024%2F08%2FAMS_UMI_Schedule.pdf&form-id=4&field-id=9&hash=25599ad75a2635d0855ff83f62039c8ad63a56e8c49b5fa906ac0e65b77ac857){:target="_blank"} [[website]](https://umi.dm.unibo.it/jm-umi-ams/){:target="_blank"}
 - **Mini Symposium: Computational Topology and Geometry**. Biennial meeting of the Austrian Mathematical Society (ÖMG Tagung 2023), Graz, Austria, September 18--22, 2023. [[website]](https://oemg-tagung-2023.at/){:target="_blank"}
 - **Computational Problems in Low-dimensional Topology III**. Rutgers University, Newark, NJ, USA, April 8--9, 2023. [[website]](https://sites.rutgers.edu/cplt-workshop/about/){:target="_blank"}
 - **Oberwolfach Seminar: Combinatorial and Geometric Knot Theory** (online). Oberwolfach Research Institute for Mathematics, Germany, November 22--26, 2021. [[website]](https://www.mfo.de/occasion/2147b/www_view){:target="_blank"}
