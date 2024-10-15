@@ -24,7 +24,7 @@ title: Teaching
 
 - **Angewandte Geometrie** (in German) <br> Various topics on applied geometry with a focus on geometric data processing; exercises. <br> Role: _Teaching assistant_ <br> Lecturer: Johannes Wallner
 
-- **Topological Methods in Combinatorics** (graduate course in English) <br> We discuss topological methods in combinatorics, in particular some applications of the Borsuk–Ulam Theorem. <br> Role: _Lecturer_ (with Michael Kerber)
+- **Topological Methods in Combinatorics** (graduate course in English) <br> We discuss topological methods in combinatorics, in particular some applications of the Borsuk--Ulam Theorem. <br> Role: _Lecturer_ (with Michael Kerber)
 
 #### Summer 2024
 

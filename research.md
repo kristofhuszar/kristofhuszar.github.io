@@ -90,7 +90,7 @@ ___
 
 ### Poster Presentations
 
-- **Geometry & Computing**. Centre International de Rencontres Mathématiques, Marseille-Luminy, France, October 21-25, 2024. [[website]](https://geocomp2024.sciencesconf.org){:target="_blank"}
+- **Geometry & Computing**. Centre International de Rencontres Mathématiques, Marseille-Luminy, France, October 21--25, 2024. [[website]](https://geocomp2024.sciencesconf.org){:target="_blank"}
 - **Journées Nationales de l'Informatique-Mathématique**. Université Paris Cité, France, April 4--7, 2023. [[website]](https://jnim2023.sciencesconf.org){:target="_blank"}
 - **Applied Algebraic Topology Research Network Poster Session** (online). October 8, 2021. [[website]](https://sites.google.com/view/aatrn-poster-session/prior-poster-sessions/october-2021-posters){:target="_blank"}
 
