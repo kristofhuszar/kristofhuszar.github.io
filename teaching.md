@@ -20,13 +20,19 @@ title: Teaching
 
 ### [TU Graz](https://www.tugraz.at/en/home){:target="_blank"}
 
+#### Winter 2024
+
+- **Angewandte Geometrie** (in German) <br> Various topics on applied geometry with a focus on geometric data processing. <br> Role: _Teaching assistant_ <br> Lecturer: Johannes Wallner
+
+- **Topological Methods in Combinatorics** (graduate course in English) <br> We discuss topological methods in combinatorics, in particular some applications of the Borsuk–Ulam Theorem. <br> Role: _Lecturer_ (with Michael Kerber)
+
 #### Summer 2024
 
-- **Geometrien und Transformationsgruppen** (13 weeks; in German) <br> Discussion of various geometries and transformation groups (e.g. hyperbolic geometry and Möbius geometry), exemplary presentation of some geometric point models (e.g. Laguerre geometry) and associated geometric mappings; exercises. <br> Role: _Teaching assistant_ <br> Lecturer: Johannes Wallner
+- **Geometrien und Transformationsgruppen** (in German) <br> Discussion of various geometries and transformation groups (e.g. hyperbolic geometry and Möbius geometry), exemplary presentation of some geometric point models (e.g. Laguerre geometry) and associated geometric mappings; exercises. <br> Role: _Teaching assistant_ <br> Lecturer: Johannes Wallner
 
 #### Winter 2023
 
-- **Elementare Differentialgeometrie** (9 weeks; in German) <br> Elementary differential geometry of curves and surfaces; exercises. <br> Role: _Teaching assistant_ <br> Lecturer: Olga Diamanti
+- **Elementare Differentialgeometrie** (in German) <br> Elementary differential geometry of curves and surfaces; exercises. <br> Role: _Teaching assistant_ <br> Lecturer: Olga Diamanti
 
 ___
 
