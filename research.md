@@ -55,6 +55,8 @@ ___
 
 ### Contributed Talks at Conferences and Workshops
 
+- **41st International Symposium on Computational Geometry** (SoCG 2025). Kanazawa, Japan, June 23--27, 2025. [[accepted papers]](https://socg25.github.io/socg.html#accepted_list){:target="_blank"}
+- **41st European Workshop on Computational Geometry** (EuroCG 2025). Liblice, Czech Republic, April 9--11, 2025. [[accepted abstracts]](https://kam.mff.cuni.cz/conferences/eurocg2025/accepted.html#about){:target="_blank"}
 - **39th International Symposium on Computational Geometry** (SoCG 2023). Dallas, TX, USA, June 12--15, 2023. [[accepted papers]](https://cs.utdallas.edu/SOCG23/socg.html){:target="_blank"}
 - **24e Journées Graphes et Algorithmes** (JGA 2022). École normale supérieure, Paris, France, November 16--18, 2022. [[accepted abstracts]](https://jga2022.sciencesconf.org/program){:target="_blank"}
 - **CG Week 2022: Young Researchers Forum**. Berlin, Germany, June 7--10, 2022. [[accepted abstracts]](https://www.inf.fu-berlin.de/inst/ag-ti/socg22/yrf.html#accepted_list){:target="_blank"}
