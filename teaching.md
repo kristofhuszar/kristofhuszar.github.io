@@ -90,4 +90,4 @@ ___
 
 #### Fall 2012
 
-- **Calculus** (12 weeks) <br> Introductory course for undergraduates in economics <br> Role: _Teaching assistant_ <br> Lecturers: Gábor Lovics and Balázs Sziklai
+- **Calculus** (12 weeks; in Hungarian) <br> Introductory course for undergraduates in economics <br> Role: _Teaching assistant_ <br> Lecturers: Gábor Lovics and Balázs Sziklai
