@@ -18,11 +18,12 @@ title: Other
     </div>
 </div>
 
-## Service
+## Outreach and Service
 
+- [Mathe macht Spaß!](https://super-science-team.tugraz.at/mathe-macht-spass/){:target="_blank"} (Math Is Fun!), an outreach program for students in the 7th grade and above.
 - I currently serve on the Speaker Selection Committee of the [Applied Algebraic Topology Research Network (AATRN)](https://www.aatrn.net/about){:target="_blank"}. Feel free to [suggest a possible speaker](https://www.aatrn.net/participate#h.t5zhfdhnosh5){:target="_blank"} for the AATRN Wednesday Seminar.
 - I co-organized a one-day symposium for young researchers in Geometry ([Journée Jeunes Chercheures en Géometrie](https://jcgeo.sciencesconf.org/){:target="_blank"}) that took place on October 27, 2023 at the IHP in Paris.
-- I co-organized the [French Computational Geometry Days 2022](https://project.inria.fr/jga2022/){:target="_blank"}) that took place online between May 30 and June 1, 2022.
+- I co-organized the [French Computational Geometry Days 2022](https://project.inria.fr/jga2022/){:target="_blank"} that took place online between May 30 and June 1, 2022.
 
 ## Links
 
