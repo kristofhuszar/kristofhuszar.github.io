@@ -20,7 +20,7 @@ title: Teaching
 
 ### [TU Graz](https://www.tugraz.at/en/home){:target="_blank"}
 
-#### Sommer 2025
+#### Summer 2025
 
 - **Projektive Geometrie 1** (in German) <br> Axiomatic introduction of projective planes, projectivities and collineations, polarities, conic sections, examples of projective planes. <br> Role: _Teaching assistant_ <br> Lecturer: Anton Gfrerrer
 
