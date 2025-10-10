@@ -20,6 +20,7 @@ title: Other
 
 ## Outreach and Service
 
+- I am member of the [SoCG 2026](https://cgweek26.computational-geometry.org/contribute/){:target="_blank"} program committee (theory track).
 - [Mathe macht Spaß!](https://super-science-team.tugraz.at/mathe-macht-spass/){:target="_blank"} (Math Is Fun!), an outreach program for students in the 7th grade and above.
 - I currently serve on the Speaker Selection Committee of the [Applied Algebraic Topology Research Network (AATRN)](https://www.aatrn.net/about){:target="_blank"}. Feel free to [suggest a possible speaker](https://www.aatrn.net/participate#h.t5zhfdhnosh5){:target="_blank"} for the AATRN Wednesday Seminar.
 - I co-organized a one-day symposium for young researchers in Geometry ([Journée Jeunes Chercheures en Géometrie](https://jcgeo.sciencesconf.org/){:target="_blank"}) that took place on October 27, 2023 at the IHP in Paris.
