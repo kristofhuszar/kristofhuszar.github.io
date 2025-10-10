@@ -20,6 +20,14 @@ title: Teaching
 
 ### [TU Graz](https://www.tugraz.at/en/home){:target="_blank"}
 
+#### Winter 2025
+
+- **Analytische Grundlagen der Geometrie 1** (in German) <br> Mathematical foundations, introductory linear algebra, common algebraic structures. <br> Role: _Teaching assistant_ <br> Lecturer: Michael Kerber
+
+- **Complexity Theory** (graduate course in English) <br> Computational models and complexity classes (Turing machines, P, NP, reductions), diagonalization techniques, space complexity, the polynomial hierarchy, Boolean circuits, probabilistic proofs, interactive proofs, quantum computation, approximation problems, and fixed-parameter tractability. <br> Role: _Teaching assistant_ <br> Lecturer: Michael Kerber
+
+- **Projektive Geometrie 2** (in German) <br> _n_-dimensional projective spaces, collineations and projectivities, the cross-ratio, real and complex projective spaces. <br> Role: _Teaching assistant_ <br> Lecturer: Anton Gfrerrer
+
 #### Summer 2025
 
 - **Projektive Geometrie 1** (in German) <br> Axiomatic introduction of projective planes, projectivities and collineations, polarities, conic sections, examples of projective planes. <br> Role: _Teaching assistant_ <br> Lecturer: Anton Gfrerrer
