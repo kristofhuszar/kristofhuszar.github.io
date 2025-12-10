@@ -24,6 +24,10 @@ My main research interest lies at the intersection of [computational topology](h
 
 [^1]: Papers with multiple versions are listed once.
 
+### Preprints
+
+- **On sparse representations of 3-manifolds** <br> with [Clément Maria](https://www-sop.inria.fr/members/Clement.Maria/){:target="_blank"} <br> [[arXiv]](https://arxiv.org/abs/2512.05779){:target="_blank"} [[HAL]](https://hal.science/hal-05405102){:target="_blank"}
+
 ### Journal Articles
 
 - **On the width of complicated JSJ decompositions** <br> with [Jonathan Spreer](https://sites.google.com/view/jonathan-spreer/home){:target="_blank"} <br> _Discrete & Computational Geometry_ (DCG), 2025. <br> [[doi]](https://doi.org/10.1007/s00454-025-00746-1) [[arXiv]](https://arxiv.org/abs/2303.06789){:target="_blank"} [[HAL]](https://hal.science/hal-04055617){:target="_blank"} [[SoCG 2023]](https://doi.org/10.4230/LIPIcs.SoCG.2023.42){:target="_blank"}
