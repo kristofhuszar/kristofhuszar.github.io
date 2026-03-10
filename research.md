@@ -26,7 +26,9 @@ My main research interest lies at the intersection of [computational topology](h
 
 ### Preprints
 
-- **On sparse representations of 3-manifolds** <br> with [Clément Maria](https://www-sop.inria.fr/members/Clement.Maria/){:target="_blank"} <br> [[arXiv]](https://arxiv.org/abs/2512.05779){:target="_blank"} [[HAL]](https://hal.science/hal-05405102){:target="_blank"}
+- **Topologically stable Hough transform** <br> with [Stefan Huber](https://www.sthu.org/){:target="_blank"}, [Michael Kerber](https://www.geometrie.tugraz.at/kerber/){:target="_blank"}, and [Martin Uray](https://martinuray.github.io/){:target="_blank"} <br> [[arXiv]](https://arxiv.org/abs/2603.08245){:target="_blank"} [[EuroCG 2026]](https://eurocg26.fernuni-hagen.de/accepted-contributions.html){:target="_blank"}
+
+- **On sparse representations of 3-manifolds** <br> with [Clément Maria](https://www-sop.inria.fr/members/Clement.Maria/){:target="_blank"} <br> To appear in the Proceedings of SoCG 2026 <br> [[arXiv]](https://arxiv.org/abs/2512.05779){:target="_blank"} [[HAL]](https://hal.science/hal-05405102){:target="_blank"} [[SoCG 2026]](https://cgweek26.computational-geometry.org/contribute/){:target="_blank"}
 
 ### Journal Articles
 
