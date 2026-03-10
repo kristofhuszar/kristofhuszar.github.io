@@ -20,6 +20,12 @@ title: Teaching
 
 ### [TU Graz](https://www.tugraz.at/en/home){:target="_blank"}
 
+#### Summer 2026
+
+- **Geometrien und Transformationsgruppen** (in German) <br> Discussion of various geometries and transformation groups (e.g. hyperbolic geometry and Möbius geometry), exemplary presentation of some geometric point models (e.g. Laguerre geometry) and associated geometric mappings; exercises. <br> Role: _Teaching assistant_ <br> Lecturer: Johannes Wallner
+
+- **Analytische Grundlagen der Geometrie 2** (in German) <br> Calculus: Functions, sequences, series, continuity, differential and integral calculus. <br> Role: _Teaching assistant_ <br> Lecturer: Michael Kerber
+
 #### Winter 2025
 
 - **Analytische Grundlagen der Geometrie 1** (in German) <br> Mathematical foundations, introductory linear algebra, common algebraic structures. <br> Role: _Teaching assistant_ <br> Lecturer: Michael Kerber
