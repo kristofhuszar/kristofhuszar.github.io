@@ -28,7 +28,6 @@ My main research interest lies at the intersection of [computational topology](h
 
 - **Topologically stable Hough transform** <br> with [Stefan Huber](https://www.sthu.org/){:target="_blank"}, [Michael Kerber](https://www.geometrie.tugraz.at/kerber/){:target="_blank"}, and [Martin Uray](https://martinuray.github.io/){:target="_blank"} <br> [[arXiv]](https://arxiv.org/abs/2603.08245){:target="_blank"} [[EuroCG 2026]](https://eurocg26.fernuni-hagen.de/accepted-contributions.html){:target="_blank"}
 
-- **On sparse representations of 3-manifolds** <br> with [Clément Maria](https://www-sop.inria.fr/members/Clement.Maria/){:target="_blank"} <br> To appear in the Proceedings of SoCG 2026 <br> [[arXiv]](https://arxiv.org/abs/2512.05779){:target="_blank"} [[HAL]](https://hal.science/hal-05405102){:target="_blank"} [[SoCG 2026]](https://cgweek26.computational-geometry.org/contribute/){:target="_blank"}
 
 ### Journal Articles
 
@@ -40,6 +39,7 @@ My main research interest lies at the intersection of [computational topology](h
 
 ### Conference Papers
 
+- **On sparse representations of 3-manifolds** <br> with [Clément Maria](https://www-sop.inria.fr/members/Clement.Maria/){:target="_blank"} <br> _42nd International Symposium on Computational Geometry_ ([SoCG 2026](https://cgweek26.computational-geometry.org/contribute/){:target="_blank"}), vol. 367 of LIPIcs, pages 58:1-58:18, 2026 <br> [[doi]](https://doi.org/10.4230/LIPIcs.SoCG.2026.58) [[arXiv]](https://arxiv.org/abs/2512.05779){:target="_blank"} [[HAL]](https://hal.science/hal-05405102){:target="_blank"}
 - **On the twin-width of smooth manifolds** <br> with [Édouard Bonnet](https://perso.ens-lyon.fr/edouard.bonnet/){:target="_blank"} <br> _41st International Symposium on Computational Geometry_ ([SoCG 2025](https://socg25.github.io/socg.html){:target="_blank"}), vol. 332 of LIPIcs, pages 23:1–23:16, 2025 <br> [[doi]](https://doi.org/10.4230/LIPIcs.SoCG.2025.23) [[arXiv]](https://arxiv.org/abs/2407.10174){:target="_blank"} [[HAL]](https://hal.science/hal-04654840){:target="_blank"}
 - **3-Manifold triangulations with small treewidth** <br> with [Jonathan Spreer](https://sites.google.com/view/jonathan-spreer/home){:target="_blank"} <br> _35th International Symposium on Computational Geometry_ ([SoCG 2019](https://web.archive.org/web/20190717212327/https://eecs.oregonstate.edu/socg19/papers.html){:target="_blank"}), vol. 129 of LIPIcs, pages 44:1–44:20, 2019. <br> [[doi]](https://doi.org/10.4230/LIPIcs.SoCG.2019.44) [[arXiv]](https://arxiv.org/abs/1812.05528){:target="_blank"}
 
@@ -58,6 +58,7 @@ ___
 
 ### Contributed Talks at Conferences and Workshops
 
+- **42nd International Symposium on Computational Geometry** (SoCG 2026). New Brunswick, NJ, USA, June 2--5, 2026. [[accepted papers]](https://cgweek26.computational-geometry.org/contribute/){:target="_blank"}
 - **41st International Symposium on Computational Geometry** (SoCG 2025). Kanazawa, Japan, June 23--27, 2025. [[accepted papers]](https://socg25.github.io/socg.html#accepted_list){:target="_blank"}
 - **41st European Workshop on Computational Geometry** (EuroCG 2025). Liblice, Czech Republic, April 9--11, 2025. [[accepted abstracts]](https://kam.mff.cuni.cz/conferences/eurocg2025/accepted.html#about){:target="_blank"}
 - **39th International Symposium on Computational Geometry** (SoCG 2023). Dallas, TX, USA, June 12--15, 2023. [[accepted papers]](https://cs.utdallas.edu/SOCG23/socg.html){:target="_blank"}
